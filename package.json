@@ -1,0 +1,25 @@
+{
+  "name": "kichatty",
+  "version": "1.0.0",
+  "description": "just a chat implementation of kick-js",
+  "main": "index.js",
+  "bin": {
+    "kichatty": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigo-sys/kichatty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigo-sys/kichatty/issues"
+  },
+  "homepage": "https://github.com/rodrigo-sys/kichatty#readme",
+  "dependencies": {
+    "@retconned/kick-js": "^0.4.3"
+  }
+}
