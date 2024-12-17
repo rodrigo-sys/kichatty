@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "just a chat implementation of kick-js",
   "main": "index.js",
+  "type": "module",
   "bin": {
     "kichatty": "index.js"
   },
